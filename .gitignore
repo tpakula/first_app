@@ -18,3 +18,8 @@
 #/.idea/workspace.xml
 #/.idea/tasks.xml
 /.idea
+
+
+#skip any vim temp files *~
+*.swp
+*~ 
